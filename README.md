@@ -2,6 +2,7 @@
 
 [![Build](https://github.com/LykosAI/StabilityMatrix/actions/workflows/build.yml/badge.svg)](https://github.com/LykosAI/StabilityMatrix/actions/workflows/build.yml)
 [![Discord Server](https://img.shields.io/discord/1115555685476868168?logo=discord&logoColor=white&label=Discord%20Server)](https://discord.com/invite/TUrgfECxHz)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLykosAI%2FStabilityMatrix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLykosAI%2FStabilityMatrix?ref=badge_shield)
 
 [release]: https://github.com/LykosAI/StabilityMatrix/releases/latest
 [download-win-x64]: https://github.com/LykosAI/StabilityMatrix/releases/latest/download/StabilityMatrix-win-x64.zip
@@ -82,3 +83,6 @@ If you would like to contribute a translation, please create an issue or contact
 ## License
 
 This repository maintains the latest source code release for Stability Matrix, and is licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html). Binaries and executable releases are licensed under the [End User License Agreement](https://lykos.ai/license).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLykosAI%2FStabilityMatrix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLykosAI%2FStabilityMatrix?ref=badge_large)
